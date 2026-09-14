@@ -1,4 +1,5 @@
 # orientalcollege-demo
+
 This is my first Git Repository.
 <br>
-Author-Aditya Chandra
+Author-Aditya Chandra (orientalcollege)
